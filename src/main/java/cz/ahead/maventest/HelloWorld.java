@@ -1,13 +1,13 @@
 package cz.ahead.maventest;
 
-public class TestClass {
+public class HelloWorld {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Nazdar svete");
+		System.out.println("Nazdar svete22");
 
 	}
 

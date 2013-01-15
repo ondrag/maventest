@@ -4,4 +4,11 @@
   <artifactId>1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Maven test</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.10</version>
+  	</dependency>
+  </dependencies>
 </project>
